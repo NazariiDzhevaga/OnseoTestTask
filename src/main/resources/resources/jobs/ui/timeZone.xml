@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Time zone">
+
+    <test name="Time zone change test">
+        <classes>
+            <class name="ui.timezone.TimeZoneChangeTest"/>
+        </classes>
+    </test>
+
+</suite>
