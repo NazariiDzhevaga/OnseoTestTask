@@ -10,16 +10,16 @@ import static com.codeborne.selenide.Selenide.$x;
 
 public class Event {
 
-    public String sportSection;
-    public String leagueSection;
-    public String countryFlag;
-    public String eventLeague;
-    public String eventCountry;
-    public String firstCompetitor;
-    public String secondCompetitor;
-    public String scoreOrTime;
-    public String sevStatus;
-    public LocalDateTime eventDate;
+    private String sportSection;
+    private String leagueSection;
+    private String countryFlag;
+    private String eventLeague;
+    private String eventCountry;
+    private String firstCompetitor;
+    private String secondCompetitor;
+    private String scoreOrTime;
+    private String sevStatus;
+    private LocalDateTime eventDate;
 
     public Event() {
         this.sportSection = $x(activeSportSection).text();
