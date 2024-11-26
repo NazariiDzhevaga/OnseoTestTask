@@ -7,7 +7,7 @@
 # <a name="TableOfContents">Table of contents</a>
 
 + [Test Documentation](#Documentation)
-+ [Tools and technologies](#Technology)
++ [Tools and technologies](#tools_trechnology)
 
 
 # <a name="Description">Test Documentation</a>
@@ -77,7 +77,7 @@ Operating System: Windows 10
 
 
 
-# <a name="Technology">Tools and a technologies</a>
+# <a name="tools_trechnology">Tools and a technologies</a>
 <p align="center">
   <code><img width="5%" title="IntelliJ IDEA" src="./media/logotypes/IDEA-logo.svg"></code>
   <code><img width="5%" title="Java" src="./media/logotypes/java-logo.svg"></code>
