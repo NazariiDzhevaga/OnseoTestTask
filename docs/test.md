@@ -18,7 +18,7 @@
     + [Change number of build to keep](#change_build_number)
     + [Changing the branch to read the jenkinsfile](#change_branch)
     + [Changing the job run schedule](#change_job_schedule)
-+ [Restart Jenkins node](#restart_Jenkins_node)
++ [Restart Jenkins node](#restart_Jenkins)
 
 ## <a name="jenkins_site">Path to the Automation Jenkins site:</a>
 
@@ -119,7 +119,7 @@ We keep the data in the Jenkinsfile as an example, which is commented for refere
 
 ![img_2.png](images/job_schedule.png)
 
-## <a name="restart_Jenkins_node">Restart Jenkins node</a>
+## <a name="restart_Jenkins">Restart Jenkins node</a>
 
 After the remote machine is rebooted, the 'web-slave' node needs to be restarted. Follow the instructions below. If you
 encounter any difficulties, please ask the DevOps team for assistance
