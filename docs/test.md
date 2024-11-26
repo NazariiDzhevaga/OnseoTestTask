@@ -14,12 +14,12 @@
 + [Job Build](#job_build)
 + [Job Configure](#job_configure)
   + [Add new test suite](#new_test_suite)
-    + [Via Jenkins job configuration page](#via_Jenkins)
+    + [Via Jenkins job configuration page](#via_jenkins)
     + [Via the jenkinsfile](#via_jenkinsfile)
   + [Change number of build to keep](#change_build_number)
   + [Changing the branch to read the jenkinsfile](#change_branch)
   + [Changing the job run schedule](#change_job_schedule)
-+ [Restart Jenkins node](#restart_Jenkins_node)
++ [Restart Jenkins node](#restart_jenkins_node)
 
 ## <a name="jenkins_site">Path to the Automation Jenkins site:</a>
 
@@ -65,7 +65,7 @@ accessed securely
 
 There are two methods to add a new test suite XML file to a job configuration:
 
-#### <a id="via_Jenkins">Via Jenkins job configuration page</a>
+#### <a id="via_jenkins">Via Jenkins job configuration page</a>
 
 + Navigate to the job’s Configure page on the Jenkins site
 + Scroll down to the section listing all test suites
@@ -120,7 +120,7 @@ We keep the data in the Jenkinsfile as an example, which is commented for refere
 
 ![img_2.png](images/job_schedule.png)
 
-## <a name="restart_Jenkins_node">Restart Jenkins node</a>
+## <a name="restart_jenkins_node">Restart Jenkins node</a>
 
 After the remote machine is rebooted, the 'web-slave' node needs to be restarted. Follow the instructions below. If you
 encounter any difficulties, please ask the DevOps team for assistance
