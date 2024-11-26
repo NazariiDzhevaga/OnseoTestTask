@@ -65,7 +65,7 @@ accessed securely
 
 There are two methods to add a new test suite XML file to a job configuration:
 
-#### <a name="via_Jenkins">Via Jenkins job configuration page</a>
+#### <a id="via_Jenkins">Via Jenkins job configuration page</a>
 
 + Navigate to the job’s Configure page on the Jenkins site
 + Scroll down to the section listing all test suites
@@ -73,7 +73,7 @@ There are two methods to add a new test suite XML file to a job configuration:
 + Click Save to apply the changes
   ![img_2.png](images/add_test_suite_via_jenkins_ui.png)
 
-#### <a name="via_jenkinsfile ">Via the jenkinsfile</a>
+#### <a name="via_jenkinsfile">Via the jenkinsfile</a>
 
 + Open the Jenkinsfile associated with the job
 + Locate the section that lists all test suites
