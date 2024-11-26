@@ -8,6 +8,7 @@
 
 + [Test Documentation](#Documentation)
 + [Tools and technologies](#tools_trechnology)
++ [Windows 10](#Windows_10)
 
 
 # <a name="Description">Test Documentation</a>
@@ -73,8 +74,8 @@ time zone.
 ### Environment Details
 Browser: Chrome (Version 114.0.5735.91)
 
-Operating System: Windows 10
 
+<a name="Windows_10">[Operating System: Windows 10](https://www.microsoft.com/uk-ua/)</a>
 
 
 # <a name="tools_trechnology">Tools and a technologies</a>
